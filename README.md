@@ -1,2 +1,2 @@
-# DisciplinaSeriesTemporaisTrabalho2DisciplinaSeriesTemporaisTrabalho1
+# DisciplinaSeriesTemporaisTrabalho1
 Trabalho final da disciplina SCC5977
